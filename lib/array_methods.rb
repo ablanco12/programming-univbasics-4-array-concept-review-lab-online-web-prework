@@ -19,6 +19,3 @@ end
 array = [1,2,3]
 find_element_index([1,2,3] , 4)
 
-def push 
-  "add to the array"
-end
